@@ -28,6 +28,7 @@ The Reaction Wheel Inverted Pendulum is a complex system that combines a pendulu
 
 ### Prerequisites
 
+Confirmed Python Version: 3.10 (using Anaconda to create a new env)
 Ensure you have the following dependencies installed:
 
 - `numpy`
